@@ -1,2 +1,2 @@
 # quick1
-This is my first project......
+https://sowa-n.github.io/quick1/
